@@ -1,7 +1,7 @@
 <?php
 	if (!function_exists("db_connect")){
 		function db_connect(){
-			$conn = mysqli_connect("localhost", "root", "5199036", "my-db2");
+			$conn = mysqli_connect("localhost", "root", "", "my-db2");
 mysqli_query($conn, "SET NAMES 'utf8'");
 
 
