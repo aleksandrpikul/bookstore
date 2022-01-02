@@ -20,17 +20,17 @@ SOME FEATURES
 
 For my-db2:
 
-I)   Captcha;
+    I)   Captcha;
 
-II)  Picture for users;
+    II)  Picture for users;
 
-III) Authorization for manager and expert with the help .htaccess;
+    III) Authorization for manager and expert with the help .htaccess;
 
-IV)  System of comments;
+    IV)  System of comments;
 
-V)   Coookies;
+    V)   Coookies;
 
-VI)  Storing passwords of users like hash (md5).
+    VI)  Storing passwords of users like hash (md5).
 
 __________________________________________________________________________________________________________________________________________________________________
 Contact with me: aleksandrpikul134@gmail.com
