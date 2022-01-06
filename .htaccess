@@ -1,0 +1,9 @@
+<Files admin_book.php>
+AuthType Basic
+AuthName "Enter the password for manager"
+AuthUserFile /var/www/bookstore.com/.htpasswd
+Require valid-user
+</Files>
+<Files .htpasswd>
+   deny from all  #запрет доступа из браузера к .htpasswd
+</Files>
